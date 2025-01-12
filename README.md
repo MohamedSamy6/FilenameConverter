@@ -2,7 +2,7 @@
 
 This Python script is a simple utility for renaming files with the `.webp` extension in a specified folder to remove the `.webp` extension. It can be particularly useful when working with images converted from `.webp` format to `.jpg` or other formats, but where the `.webp` extension remains in the filename.
 
-## Features
+## Features:
 
 - Renames all files in the specified folder that end with `.webp`.
 - Removes the `.webp` extension from the filename.
